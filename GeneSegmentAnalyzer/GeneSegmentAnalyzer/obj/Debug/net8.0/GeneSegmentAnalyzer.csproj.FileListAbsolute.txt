@@ -1,0 +1,14 @@
+D:\CSharp_DataTypes\GeneSegmentAnalyzer\GeneSegmentAnalyzer\bin\Debug\net8.0\GeneSegmentAnalyzer.exe
+D:\CSharp_DataTypes\GeneSegmentAnalyzer\GeneSegmentAnalyzer\bin\Debug\net8.0\GeneSegmentAnalyzer.deps.json
+D:\CSharp_DataTypes\GeneSegmentAnalyzer\GeneSegmentAnalyzer\bin\Debug\net8.0\GeneSegmentAnalyzer.runtimeconfig.json
+D:\CSharp_DataTypes\GeneSegmentAnalyzer\GeneSegmentAnalyzer\bin\Debug\net8.0\GeneSegmentAnalyzer.dll
+D:\CSharp_DataTypes\GeneSegmentAnalyzer\GeneSegmentAnalyzer\bin\Debug\net8.0\GeneSegmentAnalyzer.pdb
+D:\CSharp_DataTypes\GeneSegmentAnalyzer\GeneSegmentAnalyzer\obj\Debug\net8.0\GeneSegmentAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp_DataTypes\GeneSegmentAnalyzer\GeneSegmentAnalyzer\obj\Debug\net8.0\GeneSegmentAnalyzer.AssemblyInfoInputs.cache
+D:\CSharp_DataTypes\GeneSegmentAnalyzer\GeneSegmentAnalyzer\obj\Debug\net8.0\GeneSegmentAnalyzer.AssemblyInfo.cs
+D:\CSharp_DataTypes\GeneSegmentAnalyzer\GeneSegmentAnalyzer\obj\Debug\net8.0\GeneSegmentAnalyzer.csproj.CoreCompileInputs.cache
+D:\CSharp_DataTypes\GeneSegmentAnalyzer\GeneSegmentAnalyzer\obj\Debug\net8.0\GeneSegmentAnalyzer.dll
+D:\CSharp_DataTypes\GeneSegmentAnalyzer\GeneSegmentAnalyzer\obj\Debug\net8.0\refint\GeneSegmentAnalyzer.dll
+D:\CSharp_DataTypes\GeneSegmentAnalyzer\GeneSegmentAnalyzer\obj\Debug\net8.0\GeneSegmentAnalyzer.pdb
+D:\CSharp_DataTypes\GeneSegmentAnalyzer\GeneSegmentAnalyzer\obj\Debug\net8.0\GeneSegmentAnalyzer.genruntimeconfig.cache
+D:\CSharp_DataTypes\GeneSegmentAnalyzer\GeneSegmentAnalyzer\obj\Debug\net8.0\ref\GeneSegmentAnalyzer.dll
